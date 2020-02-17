@@ -10,6 +10,7 @@ platforms/
 **/*.js
 app/**/*.js
 !app/demo.js
+!webpack.config_ignore.js
 
 # Logs
 logs
